@@ -1,4 +1,4 @@
-# Explicit Second-Order Min-Max Optimization: Practical Algorithms and Complexity Analysis
+# Explicit Second-Order Min-Max Optimization
 
 These codes provide implementations of solvers for solving cubic regularized bilinear min-max problems and AUC maximization problems using inexact regularized Newton-type methods. 
 
