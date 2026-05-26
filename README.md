@@ -14,4 +14,4 @@ The MATLAB Implementations on Synthetic and LIBSVM Data are provided.
 
 # References
 
-T. Lin, P. Mertikopoulos and M. I. Jordan. Explicit Second-Order Min-Max Optimization: Practical Algorithms and Complexity Analysis. TMLR'2026. 
+T. Lin, P. Mertikopoulos and M. I. Jordan. Explicit Second-Order Min-Max Optimization: Practical Algorithms and Complexity Analysis. Transactions on Machine Learning Research (TMLR), 2026.
